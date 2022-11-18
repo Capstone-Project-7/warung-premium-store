@@ -1,8 +1,7 @@
 # warung-premium-store
-<b> OFFICIAL WEBSITE FOR WARUNG PREMIUM STORE </b> <br>
 
 Hello guys! 👋 <br>
-This is a Voice playground, so happy if you contribute with us 😀 <br>
+This is a <b> OFFICIAL WEBSITE FOR WARUNG PREMIUM STORE </b>, so happy if you contribute with us 😀 <br>
 Don't forget to include all authors, this script is opensource 👌🏽 <br>
 This is the final capstone project of PT MariBelajar Indonesia Cerdas, Kampus Merdeka 2022
 
@@ -16,7 +15,9 @@ This is the final capstone project of PT MariBelajar Indonesia Cerdas, Kampus Me
 
 <b>Requirements:</b>
 - Windows 8/10/11
-- Google Chrome ( For the best experiment )
+- Google Chrome ( For the best experience )
 - Internet connection
 - Visual Studio Code
 - Bootstrap v5.1
+
+<h1>Overview</h1>
