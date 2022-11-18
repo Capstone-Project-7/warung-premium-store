@@ -21,4 +21,5 @@ This is the final capstone project of PT MariBelajar Indonesia Cerdas, Kampus Me
 - Bootstrap v5.1
 
 <h1>Overview</h1>
-https://github.com/Capstone-Project-7/warung-premium-store/issues/1#issue-1455181710
+![image](https://user-images.githubusercontent.com/39859740/202722826-5574fe38-23bd-4589-b1f5-0da96d9ce436.png)
+
