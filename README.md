@@ -22,5 +22,6 @@ This is the final capstone project of PT MariBelajar Indonesia Cerdas, Kampus Me
 - Bootstrap v5.1
 
 <h1>Overview</h1>
-![overview](https://user-images.githubusercontent.com/39859740/204957727-dfc71c7c-20b8-47e0-a0df-1701a01e35e0.jpeg)
+![overview-img](https://user-images.githubusercontent.com/39859740/204958369-caeb6c9f-959b-49eb-8868-13fc0ed7a1c9.jpg)
+
 
